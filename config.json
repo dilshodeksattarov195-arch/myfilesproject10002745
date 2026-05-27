@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdrocess",
+        "uuid": 22294890,
+        "checksum": "52kiyi"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
